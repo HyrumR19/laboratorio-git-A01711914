@@ -6,3 +6,11 @@
 
 ## Mi experiencia con la tecnología
 Escribe aquí una o dos líneas sobre tu experiencia previa con programación o herramientas digitales.
+
+## Herramientas que utilizo
+
+| Herramienta | Nivel |
+| ----------- | ----- |
+| Excel       | Intermedio |
+| Python      | Básico |
+| Canva       | Avanzado |
